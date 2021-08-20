@@ -1,0 +1,85 @@
+[
+   {
+      "name":"ANA InterContinental Tokyo, 29th Floor",
+      "imageurls":[
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/1783_ana-intercontinental-tokyo.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/ana-intercontinental-tokyo-accessible-room-29th_floor_3.png",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/09/1783_ana_intercontinental_tokyo_-_room_hall.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/1783_ana-intercontinental-tokyo-accessible-room-29th_floor_1.png"
+      ],
+      "nightlyRate":300,
+      "type":"Delux",
+      "occupancy":2,
+      "phonenumber":81335051111,
+      "currentbookings":[
+         
+      ],
+      "description": "This twin accessible room offers a single wall bed and an adjustable electric bed and has a roomy 32m2 of floorspace."
+   },
+   {
+      "name":"ANA InterContinental Tokyo, 7th Floor",
+      "imageurls":[
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/1783_ana-intercontinental-tokyo.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/ana-intercontinental-tokyo-accessible-room-7th_floor_1.png",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/ana-intercontinental-tokyo-accessible-room-7th_floor_3.png",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/07/ana-intercontinental-tokyo-accessible-room-7th_floor_4.png",
+      ],
+      "nightlyRate":250,
+      "type":"Standard",
+      "occupancy":2,
+      "phonenumber":81335051111,
+      "currentbookings":[
+         
+      ],
+      "description": "This twin accessible room offers a single wall bed and an adjustable electric bed and has a roomy 32m2 of floorspace."
+   },
+   {
+      "name":"OYO FLAGSHIP 76687 Ramoji Kothapet",
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/4488071a59d38cc5.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/d452b4897a767f6b.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/8f690e54761344e0.jpg"
+      ],
+      "nightlyRate":2000,
+      "type":"Non-Delux",
+      "occupancy":3,
+      "phonenumber":9989649278,
+      "currentbookings":[
+         
+      ],
+      "description":"Hotel Shiva Sai Lodge is a furnished and modest property located in Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana.The property is in close vicinity to multiple tourist spots namely Sanjeeviah Park, Buddha Statue, Snow World, and Birla Science Museum."
+   },
+   {
+      "name": "Asakusa View Hotel Universal Room",
+      "imageurls":[
+         "https://www.accessible-japan.com/wp-content/uploads/2016/11/2621_asakusa_view_hotel.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2016/11/2621_asakusa_view_hotel-universal_room.png",
+         "https://www.accessible-japan.com/wp-content/uploads/2016/11/2621_asakusa_view_hotel-universal_room_layout.png"
+      ],
+      "nightlyRate":600,
+      "type":"Delux",
+      "occupancy":4,
+      "phonenumber":81338471111,
+      "currentbookings":[
+         
+      ],
+      "description": "Asakusa View Hotel offers one “universal room” for guests with disabilities. The room is a junior suite and has twin beds and is a spacious 42.7㎡ with windows facing Tokyo SkyTree."
+   },
+   {
+      "name":"Hotel Chinzanso Tokyo",
+      "imageurls":[
+         "https://www.accessible-japan.com/wp-content/uploads/2015/08/1881_hotel_chinzanso_tokyo.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/08/1881_hotel_chinzanso_tokyo_bed.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/08/1881_hotel_chinzanso_tokyo_bathroom4.jpg",
+         "https://www.accessible-japan.com/wp-content/uploads/2015/08/1881_hotel_chinzanso_tokyo_bathroom5.jpg"
+      ],
+      "nightlyRate":180,
+      "type":"Standard",
+      "occupancy":2,
+      "phonenumber":81339431111,
+      "currentbookings":[
+         
+      ],
+      "description": "Hotel Chinzanso Tokyo is located uptown in Mejiro. While it is in the heart of Tokyo, the hotel is surrounded by a spacious scenic green garden, which gives the hotel an aura of quiet serenity."
+   }
+]
