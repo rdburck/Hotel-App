@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3001;
 
 mongoose.connect(
     process.env.MONGO_DB_URL || 
-    'mongodb://localhost:27017/mern-rooms',
+    'mongodb://localhost:27017/mern-hotel',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,

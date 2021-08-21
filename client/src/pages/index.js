@@ -15,7 +15,7 @@ const Homepage = () => {
             setLoading(true);
             axios.get('/api/rooms/getallrooms')
             .then((data) => {
-                console.log(data.data);
+                console.log(data);
                 setRoom(data.data);
                 setLoading(false);
             })

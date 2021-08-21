@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Room = (room) => {
-
+const Room = ({room}) => {
+    console.log(room, 'roomprop');
     return (
         <div className='row z-depth-5 roombox'>
             <div className='col m4'>
-                <img src={room.imageurl} alt='hotel room' className='smallimg'></img>
+                <img src={room.imageurls} alt='hotel room' className='smallimg'></img>
             </div>
             <div className='col m 7'>
                 <h2>{room.name}</h2>

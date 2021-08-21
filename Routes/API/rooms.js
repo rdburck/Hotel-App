@@ -1,5 +1,4 @@
 const router = require('express').Router();
-
 const Room = require('../../models/room');
 
 router.get('/getallrooms', async(req, res) => {
@@ -12,5 +11,6 @@ router.get('/getallrooms', async(req, res) => {
          res.status(400).json({message: error});
     }
 })
+
 
 module.exports = router;

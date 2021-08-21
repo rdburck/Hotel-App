@@ -18,7 +18,7 @@ const Schema = mongoose.Schema({
         type: Number,
         required: true,
     },
-    imageURLs: [],
+    imageurls: [],
     currentbookings: [],
     type: {
         type: String,
