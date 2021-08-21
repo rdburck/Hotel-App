@@ -6,23 +6,18 @@ const Schema = mongoose.Schema({
         type: String,
         required: true,
     },
-
     occupancy: {
         type: Number,
-        required: true,
-        
+        required: true,    
     },
-
     phoneNumber: {
         type: Number,
         required: true,
     },
-
     nightlyRate: {
         type: Number,
         required: true,
     },
-
     imageURLs: [],
     currentbookings: [],
     type: {
@@ -33,7 +28,10 @@ const Schema = mongoose.Schema({
         type: String,
         required: true,
     },
-    timestamps: true,
+    timestamps: {
+        type: Boolean,
+        default: true,
+    }
 });
 
 const roomModel = mongoose.model('rooms', Schema);

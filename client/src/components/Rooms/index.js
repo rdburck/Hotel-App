@@ -5,7 +5,7 @@ const Room = (room) => {
     return (
         <div className='row z-depth-5 roombox'>
             <div className='col m4'>
-                <img src={room.imageurl[0]} className='smallimg'></img>
+                <img src={room.imageurl} alt='hotel room' className='smallimg'></img>
             </div>
             <div className='col m 7'>
                 <h2>{room.name}</h2>
